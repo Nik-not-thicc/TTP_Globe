@@ -1,0 +1,27 @@
+[
+    {
+        "name":"vienna",
+        "lat": 48.208174,
+        "long": 16.373819
+    },
+    {
+        "name":"los angeles",
+        "lat": 34.0522,
+        "long": -118.2437
+    },
+    {
+        "name":"rome",
+        "lat": 41.899211,
+        "long": 12.492485
+    },
+    {
+        "name":"ettringen",
+        "lat": 48.105167,
+        "long": 10.654202
+    },
+    {
+        "name":"zargoza",
+        "lat": 41.649828,
+        "long": -0.882683
+    }
+]
